@@ -1,3 +1,15 @@
+
+A projekt elindításához először a backendben található src/main/java/FrontendKeretrendszerekBackendApplication.java elindítása szükséges, majd a frontenden a vite elindítása az npm run dev paranccsal
+
+A backend a következő linken található: https://github.com/VBotoond/Frontend-keretrendszerek-backend
+
+
+
+
+
+
+
+
 Installálás:
 
 npm create vite@latest
