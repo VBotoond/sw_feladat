@@ -1,0 +1,32 @@
+{
+  "sw": [
+    {
+      "id": 1,
+      "nev": "Yoda",
+      "bolygo": "ismeretlen",
+      "faj": "frog",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "nev": "Obi-wan Kenobi",
+      "bolygo": "Praktiker",
+      "faj": "ember",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "nev": "Chewbacca",
+      "bolygo": "Kashyyyk",
+      "faj": "wookiee",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "nev": "Han Solo",
+      "bolygo": "Corelia",
+      "faj": "ember",
+      "likes": 0
+    }
+  ]
+}
